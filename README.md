@@ -1,16 +1,26 @@
-## Hi there 👋
+Hello 👋
+I'm Main Alashram  
+Laravel Web Developer
+---
 
-<!--
-**Mainalashram/mainalashram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education
+Bachelor in Computer Engineering  
+Kütahya Dumlupınar University - in Türkiye
+---
 
-Here are some ideas to get you started:
+💼 Experience
+Founder – Future Builders Educational Consulting
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+Laravel  
+PHP  
+JavaScript  
+Python  
+MySQL  
+Node.js  
+MongoDB
+---
+
+📂 Projects
+Projects will be added soon!
