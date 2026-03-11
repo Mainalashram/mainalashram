@@ -15,11 +15,13 @@ Founder – Future Builders Educational Consulting
 ## 🚀 Tech Stack
 Laravel  
 PHP  
-JavaScript  
-Python  
-MySQL  
-Node.js  
+JavaScript   
+MySQL
 MongoDB
+Python 
+C
+C++
+Java
 ---
 
 📂 Projects
